@@ -1,0 +1,61 @@
+id,general_category,category,anthracite_coal,electricity,natural_gas,PP_gasoleo,pp_glp,biomass_renewable,charcoal_renewable,renovables_geotermica_,solar_thermal_renewable,total,years
+1,calefaccion,calefaccion,64.77,452.14,1539.27,1488.06,387.94,1755.61,11.22,0.05,16.74,5715.8,2017
+2,agua caliente sanitaria,agua caliente sanitaria,5.04,458.45,1421.95,133.63,458.91,37.14,0.0,0.03,209.54,2724.68,2017
+3,cocina,cocina,9.5,570.26,362.26,0.0,184.57,19.12,0.0,0.0,0.0,1145.7,2017
+4,electrodomesticos,congeladores,0.0,229.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,229.75,2017
+5,electrodomesticos,frigorificos,0.0,1160.61,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1160.61,2017
+6,electrodomesticos,horno,0.0,313.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,313.27,2017
+7,electrodomesticos,lavadoras,0.0,449.43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,449.43,2017
+8,electrodomesticos,lavavajillas,0.0,229.73,0.0,0.0,0.0,0.0,0.0,0.0,0.0,229.73,2017
+9,electrodomesticos,ordenadores,0.0,281.55,0.0,0.0,0.0,0.0,0.0,0.0,0.0,281.55,2017
+10,electrodomesticos,otro equipamiento,0.0,133.79,0.0,0.0,0.0,0.0,0.0,0.0,0.0,133.79,2017
+11,electrodomesticos,secadoras,0.0,127.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,127.02,2017
+12,electrodomesticos,stand by,0.0,406.23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,406.23,2017
+13,electrodomesticos,tv,0.0,462.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,462.26,2017
+14,iluminacion,iluminacion,0.0,720.97,0.0,0.0,0.0,0.0,0.0,0.0,0.0,720.97,2017
+15,aire acondicionado,aire acondicionad,0.0,143.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,143.3,2017
+16,calefaccion,calefaccion,55.81,475.02,1692.29,1573.82,403.66,1760.26,11.22,0.05,17.79,5989.93,2018
+17,agua caliente sanitaria,agua caliente sanitaria,4.34,481.65,1563.31,141.33,477.51,37.24,0.0,0.03,222.68,2928.08,2018
+18,cocina,cocina,8.18,599.12,398.27,0.0,192.05,19.17,0.0,0.0,0.0,1216.79,2018
+19,electrodomesticos,congeladores,0.0,241.37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,241.37,2018
+20,electrodomesticos,frigorificos,0.0,1219.35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1219.35,2018
+21,electrodomesticos,horno,0.0,329.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,329.12,2018
+22,electrodomesticos,lavadoras,0.0,472.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,472.17,2018
+23,electrodomesticos,lavavajillas,0.0,241.36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,241.36,2018
+24,electrodomesticos,ordenadores,0.0,295.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,295.8,2018
+25,electrodomesticos,otro equipamiento,0.0,140.56,0.0,0.0,0.0,0.0,0.0,0.0,0.0,140.56,2018
+26,electrodomesticos,secadoras,0.0,133.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,133.45,2018
+27,electrodomesticos,stand by,0.0,426.78,0.0,0.0,0.0,0.0,0.0,0.0,0.0,426.78,2018
+28,electrodomesticos,tv,0.0,485.65,0.0,0.0,0.0,0.0,0.0,0.0,0.0,485.65,2018
+29,iluminacion,iluminacion,0.0,757.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,757.45,2018
+30,aire acondicionado,aire acondicionad,0.0,150.55,0.0,0.0,0.0,0.0,0.0,0.02,0.0,150.57,2018
+31,calefaccion,calefaccion,53.02,462.19,1601.15,1369.32,338.65,1767.1,11.22,0.05,18.8,5623.5,2019
+32,agua caliente sanitaria,agua caliente sanitaria,4.13,468.64,1479.11,122.97,400.61,37.43,0.0,0.03,235.3,2748.21,2019
+33,cocina,cocina,7.77,582.94,376.82,0.0,161.12,19.26,0.0,0.0,0.0,1147.92,2019
+34,electrodomesticos,congeladores,0.0,234.86,0.0,0.0,0.0,0.0,0.0,0.0,0.0,234.86,2019
+35,electrodomesticos,frigorificos,0.0,1186.43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1186.43,2019
+36,electrodomesticos,horno,0.0,320.23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,320.23,2019
+37,electrodomesticos,lavadoras,0.0,459.42,0.0,0.0,0.0,0.0,0.0,0.0,0.0,459.42,2019
+38,electrodomesticos,lavavajillas,0.0,234.84,0.0,0.0,0.0,0.0,0.0,0.0,0.0,234.84,2019
+39,electrodomesticos,ordenadores,0.0,287.81,0.0,0.0,0.0,0.0,0.0,0.0,0.0,287.81,2019
+40,electrodomesticos,otro equipamiento,0.0,136.77,0.0,0.0,0.0,0.0,0.0,0.0,0.0,136.77,2019
+41,electrodomesticos,secadoras,0.0,129.85,0.0,0.0,0.0,0.0,0.0,0.0,0.0,129.85,2019
+42,electrodomesticos,stand by,0.0,415.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,415.26,2019
+43,electrodomesticos,tv,0.0,472.54,0.0,0.0,0.0,0.0,0.0,0.0,0.0,472.54,2019
+44,iluminacion,iluminacion,0.0,737.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,737.0,2019
+45,aire acondicionado,aire acondicionad,0.0,146.48,0.0,0.0,0.0,0.0,0.0,0.02,0.0,146.5,2019
+46,calefaccion,calefaccion,37.89,463.73,1609.17,1478.64,316.55,1772.09,11.22,0.05,19.78,5709.12,2020
+47,agua caliente sanitaria,agua caliente sanitaria,2.95,470.2,1486.52,132.79,374.47,37.49,0.0,0.03,247.5,2751.94,2020
+48,cocina,cocina,5.56,584.88,378.71,0.0,150.6,19.3,0.0,0.0,0.0,1139.05,2020
+49,electrodomesticos,congeladores,0.0,235.64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,235.64,2020
+50,electrodomesticos,frigorificos,0.0,1190.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1190.38,2020
+51,electrodomesticos,horno,0.0,321.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,321.3,2020
+52,electrodomesticos,lavadoras,0.0,460.95,0.0,0.0,0.0,0.0,0.0,0.0,0.0,460.95,2020
+53,electrodomesticos,lavavajillas,0.0,235.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,235.62,2020
+54,electrodomesticos,ordenadores,0.0,288.77,0.0,0.0,0.0,0.0,0.0,0.0,0.0,288.77,2020
+55,electrodomesticos,otro equipamiento,0.0,137.22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,137.22,2020
+56,electrodomesticos,secadoras,0.0,130.28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,130.28,2020
+57,electrodomesticos,stand by,0.0,416.64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,416.64,2020
+58,electrodomesticos,tv,0.0,474.11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,474.11,2020
+59,iluminacion,iluminacion,0.0,739.46,0.0,0.0,0.0,0.0,0.0,0.0,0.0,739.46,2020
+60,aire acondicionado,aire acondicionad,0.0,146.97,0.0,0.0,0.0,0.0,0.0,0.02,0.0,146.99,2020
